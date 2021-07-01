@@ -1,0 +1,35 @@
+table {
+  width: 100%;
+}
+
+.title{
+  font-size: 3em;
+  font-family: Georgia;
+  text-align: center;
+}
+
+.tableContainer {
+  margin: 2em;
+}
+
+.searchContainer {
+  width: 100%;
+  background-color: rgb(243, 219, 219);
+  padding: 1em 2em 1em 2em ;
+}
+
+.searchText {
+  font-size: x-large;
+}
+
+.searchBar {
+  width: 60%;
+}
+
+.tableRow {
+  cursor: pointer;
+}
+
+.tableRow:hover {
+  background-color: #8ea6da;
+}

@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600&display=swap');
+
+body {
+  background-color: #adf5cb;
+}
+.title {
+  padding : 1em ;
+  margin: 0;
+  font-weight: lighter;
+  font-size: 3em;
+  text-align: center;
+  font-family: 'georgia', sans-serif;
+}
+
+.title{
+  color:#e26817;
+}
+
+.card {
+  font-family: 'Barlow Condensed', sans-serif;
+}
+
+.cardContainer {
+  padding: 1em 5em 2em 5em ;
+  width: 50vw;
+  margin: 0 auto;
+}
+
+
+.flag {
+  border-radius: 50%;
+}
+
+.name {
+  color:#6B8888;
+  font-size: 2em;
+}
+
+.capital {
+  color: #EDA08F;
+  font-size: 1em;
+}
+.alpha3code {
+  color: #EDA08F;
+  font-size: 1em;
+}
+
+.footer {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: large;
+  background-color: #785cf1;
+  color: white;
+  padding: 1em ;
+  margin-top: 1em ;
+  border-radius: 0 0 4px 4px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.footer > span {
+  font-size: 1.5em;
+}
